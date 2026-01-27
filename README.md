@@ -1,2 +1,1 @@
-Junbin Huang's Personal Website
-[junbinh.com](https://junbinh.com)
+Junbin Huang's Personal Website — [junbinh.com](https://junbinh.com)
