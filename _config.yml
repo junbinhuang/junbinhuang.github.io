@@ -1,0 +1,9 @@
+title: "Junbin Huang's Personal Website"
+description: "Junbin Huang's Personal Website"
+
+url: "https://www.junbinh.com"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
